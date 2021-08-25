@@ -1,7 +1,7 @@
 'use strict';
 const errorHandler=require('../error-handlers/500')
 module.exports=(req,res,next)=>{
-    console.log('laithhhhdhdhdh')
+    // console.log('laithhhhdhdhdh')
     let name = {
         name: req.query.name
     };
