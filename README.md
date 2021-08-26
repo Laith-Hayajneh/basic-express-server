@@ -33,4 +33,7 @@
 
 - Unit Tests: `npm run test`
 
+**UML**
 
+
+![UML](./Lab_Class02.png)
